@@ -1,12 +1,13 @@
 import React from 'react';
-// import LandingPage from './Com'
+import LandingPage from './Components/LandingPage/LandingPage'
+
 // import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-    {/* <LandingPage/> */}
+    <LandingPage/>
       {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
