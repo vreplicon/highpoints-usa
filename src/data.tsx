@@ -73,9 +73,9 @@ let CT:Highpoint = {
     state:'CT',
     lat:35.34640,
     long:111.6778,
-    elevation:12633,
-    martian:6,
-    gain:3500
+    elevation:2380,
+    martian:3,
+    gain:450
 }
 
 let DE:Highpoint = {
@@ -83,9 +83,9 @@ let DE:Highpoint = {
     state:'DE',
     lat:35.34640,
     long:111.6778,
-    elevation:12633,
-    martian:6,
-    gain:3500
+    elevation:448,
+    martian:1,
+    gain:10
 }
 
 let FL:Highpoint = {
@@ -93,9 +93,9 @@ let FL:Highpoint = {
     state:'FL',
     lat:35.34640,
     long:111.6778,
-    elevation:12633,
-    martian:6,
-    gain:3500
+    elevation:345,
+    martian:1,
+    gain:10
 }
 
 let GA:Highpoint = {
@@ -103,9 +103,9 @@ let GA:Highpoint = {
     state:'GA',
     lat:35.34640,
     long:111.6778,
-    elevation:12633,
-    martian:6,
-    gain:3500
+    elevation:4784,
+    martian:2,
+    gain:400
 }
 
 let HI:Highpoint = {
@@ -113,9 +113,9 @@ let HI:Highpoint = {
     state:'HI',
     lat:35.34640,
     long:111.6778,
-    elevation:12633,
-    martian:6,
-    gain:3500
+    elevation:13769,
+    martian:2,
+    gain:230
 }
 
 let ID:Highpoint = {
@@ -123,9 +123,9 @@ let ID:Highpoint = {
     state:'ID',
     lat:35.34640,
     long:111.6778,
-    elevation:12633,
-    martian:6,
-    gain:3500
+    elevation:12662,
+    martian:8,
+    gain:5500
 }
 
 let IL:Highpoint = {
@@ -133,9 +133,9 @@ let IL:Highpoint = {
     state:'IL',
     lat:35.34640,
     long:111.6778,
-    elevation:12633,
-    martian:6,
-    gain:3500
+    elevation:1235,
+    martian:2,
+    gain:275
 }
 
 let IN:Highpoint = {
@@ -143,9 +143,9 @@ let IN:Highpoint = {
     state:'IN',
     lat:35.34640,
     long:111.6778,
-    elevation:12633,
-    martian:6,
-    gain:3500
+    elevation:1257,
+    martian:1,
+    gain:10
 }
 
 let IA:Highpoint = {
@@ -153,9 +153,9 @@ let IA:Highpoint = {
     state:'IA',
     lat:35.34640,
     long:111.6778,
-    elevation:12633,
-    martian:6,
-    gain:3500
+    elevation:1670,
+    martian:1,
+    gain:10
 }
 
 let KS:Highpoint = {
@@ -163,9 +163,9 @@ let KS:Highpoint = {
     state:'KS',
     lat:35.34640,
     long:111.6778,
-    elevation:12633,
-    martian:6,
-    gain:3500
+    elevation:4039,
+    martian:1,
+    gain:10
 }
 
 let KY:Highpoint = {
@@ -173,9 +173,9 @@ let KY:Highpoint = {
     state:'KY',
     lat:35.34640,
     long:111.6778,
-    elevation:12633,
-    martian:6,
-    gain:3500
+    elevation:4145,
+    martian:1,
+    gain:10
 }
 
 let LA:Highpoint = {
@@ -183,9 +183,9 @@ let LA:Highpoint = {
     state:'LA',
     lat:35.34640,
     long:111.6778,
-    elevation:12633,
-    martian:6,
-    gain:3500
+    elevation:535,
+    martian:2,
+    gain:150
 }
 
 let ME:Highpoint = {
@@ -193,9 +193,9 @@ let ME:Highpoint = {
     state:'ME',
     lat:35.34640,
     long:111.6778,
-    elevation:12633,
-    martian:6,
-    gain:3500
+    elevation:5268,
+    martian:5,
+    gain:4200
 }
 
 let MD:Highpoint = {
@@ -203,9 +203,9 @@ let MD:Highpoint = {
     state:'MD',
     lat:35.34640,
     long:111.6778,
-    elevation:12633,
-    martian:6,
-    gain:3500
+    elevation:3360,
+    martian:3,
+    gain:750
 }
 
 let MA:Highpoint = {
@@ -213,9 +213,9 @@ let MA:Highpoint = {
     state:'MA',
     lat:35.34640,
     long:111.6778,
-    elevation:12633,
-    martian:6,
-    gain:3500
+    elevation:3491,
+    martian:1,
+    gain:20
 }
 
 let MI:Highpoint = {
@@ -223,9 +223,9 @@ let MI:Highpoint = {
     state:'MI',
     lat:35.34640,
     long:111.6778,
-    elevation:12633,
-    martian:6,
-    gain:3500
+    elevation:1979,
+    martian:1,
+    gain:10
 }
 
 let MN:Highpoint = {
@@ -233,9 +233,9 @@ let MN:Highpoint = {
     state:'MN',
     lat:35.34640,
     long:111.6778,
-    elevation:12633,
-    martian:6,
-    gain:3500
+    elevation:2301,
+    martian:4,
+    gain:600
 }
 
 let MS:Highpoint = {
@@ -243,9 +243,9 @@ let MS:Highpoint = {
     state:'MS',
     lat:35.34640,
     long:111.6778,
-    elevation:12633,
-    martian:6,
-    gain:3500
+    elevation:806,
+    martian:1,
+    gain:10
 }
 
 let MO:Highpoint = {
@@ -253,9 +253,9 @@ let MO:Highpoint = {
     state:'MO',
     lat:35.34640,
     long:111.6778,
-    elevation:12633,
-    martian:6,
-    gain:3500
+    elevation:1772,
+    martian:1,
+    gain:30
 }
 
 let MT:Highpoint = {
@@ -263,9 +263,9 @@ let MT:Highpoint = {
     state:'MT',
     lat:35.34640,
     long:111.6778,
-    elevation:12633,
-    martian:6,
-    gain:3500
+    elevation:12799,
+    martian:9,
+    gain:7700
 }
 
 let NE:Highpoint = {
@@ -273,9 +273,9 @@ let NE:Highpoint = {
     state:'NE',
     lat:35.34640,
     long:111.6778,
-    elevation:12633,
-    martian:6,
-    gain:3500
+    elevation:5424,
+    martian:1,
+    gain:10
 }
 
 let NV:Highpoint = {
@@ -283,9 +283,9 @@ let NV:Highpoint = {
     state:'NV',
     lat:35.34640,
     long:111.6778,
-    elevation:12633,
+    elevation:13140,
     martian:6,
-    gain:3500
+    gain:4400
 }
 
 let NH:Highpoint = {
@@ -293,9 +293,9 @@ let NH:Highpoint = {
     state:'NH',
     lat:35.34640,
     long:111.6778,
-    elevation:12633,
-    martian:6,
-    gain:3500
+    elevation:6288,
+    martian:1,
+    gain:20
 }
 
 let NJ:Highpoint = {
@@ -303,9 +303,9 @@ let NJ:Highpoint = {
     state:'NJ',
     lat:35.34640,
     long:111.6778,
-    elevation:12633,
-    martian:6,
-    gain:3500
+    elevation:1803,
+    martian:1,
+    gain:40
 }
 
 let NM:Highpoint = {
@@ -313,9 +313,9 @@ let NM:Highpoint = {
     state:'NM',
     lat:35.34640,
     long:111.6778,
-    elevation:12633,
+    elevation:13161,
     martian:6,
-    gain:3500
+    gain:3250
 }
 
 let NY:Highpoint = {
@@ -323,9 +323,9 @@ let NY:Highpoint = {
     state:'NY',
     lat:35.34640,
     long:111.6778,
-    elevation:12633,
-    martian:6,
-    gain:3500
+    elevation:5343,
+    martian:5,
+    gain:3200
 }
 
 let NC:Highpoint = {
@@ -333,9 +333,9 @@ let NC:Highpoint = {
     state:'NC',
     lat:35.34640,
     long:111.6778,
-    elevation:12633,
-    martian:6,
-    gain:3500
+    elevation:6684,
+    martian:1,
+    gain:100
 }
 
 let ND:Highpoint = {
@@ -343,9 +343,9 @@ let ND:Highpoint = {
     state:'ND',
     lat:35.34640,
     long:111.6778,
-    elevation:12633,
-    martian:6,
-    gain:3500
+    elevation:3506,
+    martian:2,
+    gain:400
 }
 
 let OH:Highpoint = {
@@ -353,9 +353,9 @@ let OH:Highpoint = {
     state:'OH',
     lat:35.34640,
     long:111.6778,
-    elevation:12633,
-    martian:6,
-    gain:3500
+    elevation:1550,
+    martian:1,
+    gain:10
 }
 
 let OK:Highpoint = {
@@ -363,9 +363,9 @@ let OK:Highpoint = {
     state:'OK',
     lat:35.34640,
     long:111.6778,
-    elevation:12633,
-    martian:6,
-    gain:3500
+    elevation:4973,
+    martian:4,
+    gain:775
 }
 
 let OR:Highpoint = {
@@ -373,9 +373,9 @@ let OR:Highpoint = {
     state:'OR',
     lat:35.34640,
     long:111.6778,
-    elevation:12633,
-    martian:6,
-    gain:3500
+    elevation:11239,
+    martian:8,
+    gain:5300
 }
 
 let PA:Highpoint = {
@@ -383,9 +383,9 @@ let PA:Highpoint = {
     state:'PA',
     lat:35.34640,
     long:111.6778,
-    elevation:12633,
-    martian:6,
-    gain:3500
+    elevation:3213,
+    martian:1,
+    gain:10
 }
 
 let RI:Highpoint = {
@@ -393,9 +393,9 @@ let RI:Highpoint = {
     state:'RI',
     lat:35.34640,
     long:111.6778,
-    elevation:12633,
-    martian:6,
-    gain:3500
+    elevation:812,
+    martian:1,
+    gain:10
 }
 
 let SC:Highpoint = {
@@ -403,9 +403,9 @@ let SC:Highpoint = {
     state:'SC',
     lat:35.34640,
     long:111.6778,
-    elevation:12633,
-    martian:6,
-    gain:3500
+    elevation:3560,
+    martian:1,
+    gain:10
 }
 
 let SD:Highpoint = {
@@ -413,9 +413,9 @@ let SD:Highpoint = {
     state:'SD',
     lat:35.34640,
     long:111.6778,
-    elevation:12633,
-    martian:6,
-    gain:3500
+    elevation:7242,
+    martian:4,
+    gain:1500
 }
 
 let TN:Highpoint = {
@@ -423,9 +423,9 @@ let TN:Highpoint = {
     state:'TN',
     lat:35.34640,
     long:111.6778,
-    elevation:12633,
-    martian:6,
-    gain:3500
+    elevation:6643,
+    martian:2,
+    gain:330
 }
 
 let TX:Highpoint = {
@@ -433,9 +433,9 @@ let TX:Highpoint = {
     state:'TX',
     lat:35.34640,
     long:111.6778,
-    elevation:12633,
-    martian:6,
-    gain:3500
+    elevation:8749,
+    martian:5,
+    gain:2950
 }
 
 let UT:Highpoint = {
@@ -443,9 +443,9 @@ let UT:Highpoint = {
     state:'UT',
     lat:35.34640,
     long:111.6778,
-    elevation:12633,
-    martian:6,
-    gain:3500
+    elevation:13528,
+    martian:7,
+    gain:5350
 }
 
 let VT:Highpoint = {
@@ -453,9 +453,9 @@ let VT:Highpoint = {
     state:'VT',
     lat:35.34640,
     long:111.6778,
-    elevation:12633,
-    martian:6,
-    gain:3500
+    elevation:4393,
+    martian:3,
+    gain:550
 }
 
 let VA:Highpoint = {
@@ -463,9 +463,9 @@ let VA:Highpoint = {
     state:'VA',
     lat:35.34640,
     long:111.6778,
-    elevation:12633,
-    martian:6,
-    gain:3500
+    elevation:5729,
+    martian:4,
+    gain:1500
 }
 
 let WA:Highpoint = {
@@ -473,9 +473,9 @@ let WA:Highpoint = {
     state:'WA',
     lat:35.34640,
     long:111.6778,
-    elevation:12633,
-    martian:6,
-    gain:3500
+    elevation:14411,
+    martian:9,
+    gain:9100
 }
 
 let WV:Highpoint = {
@@ -483,9 +483,9 @@ let WV:Highpoint = {
     state:'WV',
     lat:35.34640,
     long:111.6778,
-    elevation:12633,
-    martian:6,
-    gain:3500
+    elevation:4863,
+    martian:1,
+    gain:20
 }
 
 let WI:Highpoint = {
@@ -493,9 +493,9 @@ let WI:Highpoint = {
     state:'WI',
     lat:35.34640,
     long:111.6778,
-    elevation:12633,
-    martian:6,
-    gain:3500
+    elevation:1951,
+    martian:1,
+    gain:120
 }
 
 let WY:Highpoint = {
@@ -503,9 +503,9 @@ let WY:Highpoint = {
     state:'WY',
     lat:35.34640,
     long:111.6778,
-    elevation:12633,
-    martian:6,
-    gain:3500
+    elevation:13804,
+    martian:9,
+    gain:8650
 }
 
 let highpoints:Highpoint[] = [AL, AK, AZ, AR, CA, CO, CT, DE, FL, GA, HI, ID, IL, IN, IA, KS, KY, LA, ME, MD, MA, MI, MN, MS, MO, MT, NE, NV, NH, NJ, NM, NY, NC, ND, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VT, VA, WA, WV, WI, WY]
