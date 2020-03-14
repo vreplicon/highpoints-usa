@@ -1,13 +1,16 @@
-import React from 'react';
+import React from "react";
 import LandingPage from './Components/LandingPage/LandingPage'
+import PointsMap from './Components/PointsMap/PointsMap'
 
 // import logo from './logo.svg';
 import './App.css';
 
 function App() {
+
   return (
     <div className="App">
     <LandingPage/>
+
       {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>

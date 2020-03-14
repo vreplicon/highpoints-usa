@@ -1,8 +1,8 @@
 interface Highpoint { 
     name:string,
     state:string,
-    lat:float,
-    long:float
+    lat:number,
+    long:number
 }
 
 let AL:Highpoint = {
@@ -28,4 +28,4 @@ let AZ:Highpoint = {
 
 let highpoints:Highpoint[] = [AL, AK, AZ]
 
-export {highpoints, Highpoint}
+export {highpoints}
