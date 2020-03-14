@@ -1,7 +1,7 @@
 import Table from "react-bootstrap/Table";
 import { highpoints } from "../../data";
 
-import React, { Component } from "react"; // let's also import Component
+import React, { Component } from "react";
 
 export default class PointsTable extends Component<{}, {}> {
   render() {
